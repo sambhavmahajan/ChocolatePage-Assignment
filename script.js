@@ -1,3 +1,7 @@
 function name() {
 	
 }
+
+function display() {
+	
+}
